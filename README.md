@@ -13,6 +13,7 @@
     2009th edition.
 
 * /RbyExample/RbyExample_mysol.R:
+    my solution to selected exercises to the book
     *R by Example (Use R!)*
     by Jim Albert, Maria Rizzo.
     2012th edition.
