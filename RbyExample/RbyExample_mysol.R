@@ -1,10 +1,25 @@
-# `R by Example (Use R!)'
+# 'R by Example (Use R!)'
 # By Jim Albert and Maria Rizzo
 # Edition: 2012th
 # Selected Exercises Solutions
 # Author: Xiaoyu Li
 # Created: 7/14/2014
 # LinkedIn Profile: https://www.linkedin.com/in/xiaoyu-li-84435220/
+
+# Contents:
+# Chapter 1. Introduction
+# Chapter 2. Quantitative Data
+# Chapter 3. Categorical Data
+# Chapter 4. Presentation Graphics
+# Chapter 5. Exploratory Data Analysis
+# Chapter 6. Basic Inference Methods
+# Chapter 7. Regression
+# Chapter 8. Analysis of Variance I
+# Chapter 9. Analysis of Variance II
+# Chapter 10. Randomization Tests
+# Chapter 11. Simulation Experiments
+# Chapter 12. Bayesion Modeling
+# Chapter 13. Monte Carlo Methods
 
 ############################################################
 #### Chapter 2

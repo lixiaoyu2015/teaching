@@ -1,11 +1,24 @@
-
-# `Introductory Time Series with R (Use R!)'
+# 'Introductory Time Series with R (Use R!)'
 # By Andrew V. Metcalfe and Paul S.P. Cowpertwait
 # Edition: 2009th
 # Selected Exercises Solutions
 # Author: Xiaoyu Li
 # LinkedIn Profile: https://www.linkedin.com/in/xiaoyu-li-84435220/
 # Created: 5/29/2014
+
+# Contents:
+# Chapter 1. Time Series Data 
+# Chapter 2. Correlation
+# Chapter 3. Forecasting Strategies
+# Chapter 4. Basic Stochastic Models
+# Chapter 5. Regression
+# Chapter 6. Stationary Models
+# Chapter 7. Non-stationary Models
+# Chapter 8. Lond-Memory Processes
+# Chapter 9. Spectral Analysis
+# Chapter 10. System Identification
+# Chapter 11. Multivariate Models
+# Chapter 12. State Space Models 
 
 ############################################################
 #### Chapter 1
