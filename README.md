@@ -8,12 +8,12 @@
 
 * /IntroTSwithR/IntroTSwithR_mysol.R:
     my solution to selected exercises from the book
-    *Introductory Time Series with R (Use R!)* 
+    *Introductory Time Series with R* 
     by Andrew V. Metcalfe, Paul S.P. Cowpertwait.
     2009th edition.
 
 * /RbyExample/RbyExample_mysol.R:
     my solution to selected exercises from the book
-    *R by Example (Use R!)*
+    *R by Example*
     by Jim Albert, Maria Rizzo.
     2012th edition.
