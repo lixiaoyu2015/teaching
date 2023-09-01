@@ -1,4 +1,4 @@
-# Solution to Selected Exercises from the References 
+# Solutions to Selected Exercises from the References 
 
 * /IntroSLwithR/IntroSLwithR_mysol.R:
     my solution to selected exercises from the book
