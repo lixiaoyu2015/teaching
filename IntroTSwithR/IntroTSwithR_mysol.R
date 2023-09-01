@@ -1,5 +1,5 @@
 # 'Introductory Time Series with R (Use R!)'
-# By Andrew V. Metcalfe and Paul S.P. Cowpertwait
+# By Andrew V. Metcalfe, Paul S.P. Cowpertwait
 # Edition: 2009th
 # Selected Exercises Solutions
 # Author: Xiaoyu Li
