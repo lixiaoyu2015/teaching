@@ -1,10 +1,9 @@
+# Selected Exercises Solutions to
 # 'R by Example (Use R!)'
 # By Jim Albert and Maria Rizzo
 # Edition: 2012th
-# Selected Exercises Solutions
 # Author: Xiaoyu Li
 # Created: 7/14/2014
-# LinkedIn Profile: https://www.linkedin.com/in/xiaoyu-li-84435220/
 
 # Contents:
 # Chapter 1. Introduction

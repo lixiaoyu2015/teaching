@@ -1,9 +1,8 @@
+# Selected Exercises Solutions to
 # 'An Introduction to Statistical Learning: With Applications in R'
 # By Daniela Witten, Gareth M. James, Trevor Hastie, Robert Tibshirani
 # Edition: 2013th
-# Selected Exercises Solutions
 # Author: Xiaoyu Li
-# LinkedIn Profile: https://www.linkedin.com/in/xiaoyu-li-84435220/
 # Created: 11/16/2018
 
 # Contents:

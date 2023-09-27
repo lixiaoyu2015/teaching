@@ -1,9 +1,8 @@
+# Selected Exercises Solutions to
 # 'Introductory Time Series with R (Use R!)'
 # By Andrew V. Metcalfe, Paul S.P. Cowpertwait
 # Edition: 2009th
-# Selected Exercises Solutions
 # Author: Xiaoyu Li
-# LinkedIn Profile: https://www.linkedin.com/in/xiaoyu-li-84435220/
 # Created: 5/29/2014
 
 # Contents:
